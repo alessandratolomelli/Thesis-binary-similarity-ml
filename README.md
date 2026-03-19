@@ -17,15 +17,17 @@ This thesis explores the challenge of **Binary Similarity Analysis**, which aims
 ---
 
 ## 📂 Repository Structure
-* `/document/src`: Contains the LaTeX source files of the thesis.
-* `/document/figures`: All diagrams, plots, and logos used in the document.
-* `/codument/main.tex`: The primary LaTeX entry point.
-* `LICENSE`: MIT License.
-
+* [**/document/src**](./document/src): Contains the LaTeX source files of the thesis.
+* [**/document/figures**](./document/figures): All diagrams, plots, and logos used in the document.
+* [**main.tex**](./document/main.tex): The primary LaTeX entry point.
+* [**LICENSE**](./LICENSE): MIT License terms.
 
 ---
 
 ## 📄 How to read the Thesis
-The final version of the thesis is available as a compiled PDF. You can download it directly from the **[Releases](https://github.com/alessandratolomelli/Thesis-binary-similarity-ml/releases)** section of this repository.
+The final version of the thesis is available as a compiled PDF. You can access it in two ways:
+
+1.  🚀 **[Download Thesis PDF (Direct Link)](./Tesi_Alessandro_Bartolomelli.pdf)** – *Fastest access from this repository.*
+2.  📦 **[Official Releases](https://github.com/alessandratolomelli/Thesis-binary-similarity-ml/releases)** – *For stable versions and archives.*
 
 
