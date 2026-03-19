@@ -27,7 +27,7 @@ This thesis explores the challenge of **Binary Similarity Analysis**, which aims
 ## How to read the Thesis
 The final version of the thesis is available as a compiled PDF. You can access it in two ways:
 
-1.  **[Download Thesis PDF (Direct Link)](./Tesi_Alessandro_Bartolomelli.pdf)** – *Fastest access from this repository.*
+1.  **[Download Thesis PDF (Direct Link)](./BSc thesis - Alessandra Tolomelli)** – *Fastest access from this repository.*
 2.  **[Official Releases](https://github.com/alessandratolomelli/Thesis-binary-similarity-ml/releases)** – *For stable versions and archives.*
 
 
