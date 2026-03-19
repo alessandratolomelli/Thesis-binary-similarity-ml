@@ -17,9 +17,9 @@ This thesis explores the challenge of **Binary Similarity Analysis**, which aims
 ---
 
 ## 📂 Repository Structure
-* `/document`: Contains the LaTeX source files of the thesis.
+* `/document/src`: Contains the LaTeX source files of the thesis.
 * `/document/figures`: All diagrams, plots, and logos used in the document.
-* `main.tex`: The primary LaTeX entry point.
+* `/codument/main.tex`: The primary LaTeX entry point.
 * `LICENSE`: MIT License.
 
 
