@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 This thesis explores the challenge of **Binary Similarity Analysis**, which aims to determine if two executable files originate from the same source code without access to the original source. This task is crucial for malware detection, vulnerability research, and software copyright protection.
 
 ### Key Areas of Focus:
@@ -16,7 +16,7 @@ This thesis explores the challenge of **Binary Similarity Analysis**, which aims
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 * [**/document/src**](./document/src): Contains the LaTeX source files of the thesis.
 * [**/document/figures**](./document/figures): All diagrams, plots, and logos used in the document.
 * [**main.tex**](./document/main.tex): The primary LaTeX entry point.
@@ -27,7 +27,7 @@ This thesis explores the challenge of **Binary Similarity Analysis**, which aims
 ## 📄 How to read the Thesis
 The final version of the thesis is available as a compiled PDF. You can access it in two ways:
 
-1.  🚀 **[Download Thesis PDF (Direct Link)](./Tesi_Alessandro_Bartolomelli.pdf)** – *Fastest access from this repository.*
-2.  📦 **[Official Releases](https://github.com/alessandratolomelli/Thesis-binary-similarity-ml/releases)** – *For stable versions and archives.*
+1.  **[Download Thesis PDF (Direct Link)](./Tesi_Alessandro_Bartolomelli.pdf)** – *Fastest access from this repository.*
+2.  **[Official Releases](https://github.com/alessandratolomelli/Thesis-binary-similarity-ml/releases)** – *For stable versions and archives.*
 
 
